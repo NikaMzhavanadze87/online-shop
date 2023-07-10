@@ -1,0 +1,128 @@
+{
+  "recommendedItems": [
+    {
+      "photoName": "photos/polo-shirt.png",
+      "price": "$ 10.3",
+      "description": "T-shirts with multiple colors, for men"
+    },
+    {
+      "photoName": "photos/jacket.png",
+      "price": "$ 10.3",
+      "description": "T-shirts with multiple colors, for men"
+    },
+    {
+      "photoName": "photos/suite.png",
+      "price": "$ 10.3",
+      "description": "T-shirts with multiple colors, for men"
+    },
+    {
+      "photoName": "photos/wallet.png",
+      "price": "$ 10.3",
+      "description": "T-shirts with multiple colors, for men"
+    },
+    {
+      "photoName": "photos/backpack.png",
+      "price": "$ 10.3",
+      "description": "T-shirts with multiple colors, for men"
+    },
+    {
+      "photoName": "photos/headphone-white@2x.png",
+      "price": "$ 10.3",
+      "description": "T-shirts with multiple colors, for men"
+    },
+    {
+      "photoName": "photos/polo-shirt1.png",
+      "price": "$ 10.3",
+      "description": "T-shirts with multiple colors, for men"
+    },
+    {
+      "photoName": "photos/pot@2x.png",
+      "price": "$ 10.3",
+      "description": "T-shirts with multiple colors, for men"
+    },
+    {
+      "photoName": "photos/kattle@2x.png",
+      "price": "$ 10.3",
+      "description": "T-shirts with multiple colors, for men"
+    },
+    {
+      "photoName": "photos/short.png",
+      "price": "$ 10.3",
+      "description": "T-shirts with multiple colors, for men"
+    }
+  ],
+  "extraServices": [
+    {
+      "photoName": "photos/image 109.png",
+      "icon": "icons/search.svg",
+      "description": "Source from Industry Hubs"
+    },
+    {
+      "photoName": "photos/image 104.jpg",
+      "icon": "icons/inventory_2.svg",
+      "description": "Customize Your Products"
+    },
+    {
+      "photoName": "photos/image 106.jpg",
+      "icon": "icons/send.svg",
+      "description": "Fast, reliable shipping by ocean or air"
+    },
+    {
+      "photoName": "photos/image 107.jpg",
+      "icon": "icons/security.svg",
+      "description": "Product monitoring and inspection"
+    }
+  ],
+  "flegIcons": [
+    {
+      "icon": "icons/AE@2x.png",
+      "name": "Arabic Emirates",
+      "description": "shopname.com"
+    },
+    {
+      "icon": "icons/AU@2x.png",
+      "name": "Australia",
+      "description": "shopname.com"
+    },
+    {
+      "icon": "icons/US@2x.png",
+      "name": "United States",
+      "description": "shopname.com"
+    },
+    {
+      "icon": "icons/RU@2x.png",
+      "name": "Russia",
+      "description": "shopname.com"
+    },
+    {
+      "icon": "icons/IT@2x.png",
+      "name": "Italy",
+      "description": "shopname.com"
+    },
+    {
+      "icon": "icons/DK@2x.png",
+      "name": "Denmark",
+      "description": "shopname.com"
+    },
+    {
+      "icon": "icons/FR@2x.png",
+      "name": "France",
+      "description": "shopname.com"
+    },
+    {
+      "icon": "icons/AE@2x.png",
+      "name": "Arabic Emirates",
+      "description": "shopname.com"
+    },
+    {
+      "icon": "icons/CN@2x.png",
+      "name": "China",
+      "description": "shopname.com"
+    },
+    {
+      "icon": "icons/GB@2x.png",
+      "name": "Great Britan",
+      "description": "shopname.com"
+    }
+  ]
+}

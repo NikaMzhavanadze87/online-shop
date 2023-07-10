@@ -1,0 +1,120 @@
+.main-block-grid {
+  max-width: 1146px;
+  width: 100%;
+  height: auto;
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: 2.5fr 6.64fr 2fr;
+  background-color: #ffffff;
+  border: 1px solid #dee2e7;
+  border-radius: 6px;
+  padding: 17px 20px 10px 14px;
+  justify-content: center;
+}
+
+.banner-img-container {
+  margin-right: 19px;
+  padding: 0;
+}
+.banner {
+  width: 100%;
+  object-fit: cover;
+}
+
+.category-list {
+  list-style: none;
+  margin-right: 13px;
+  margin-top: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.category-list li {
+  width: calc(100% - 20px);
+  height: 20px;
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #505050;
+  background-color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.category-list li:hover {
+  background-color: #e5f1ff;
+}
+
+.avatar-profile-entry {
+  display: flex;
+  flex-direction: column;
+  padding-top: 14px;
+  background-color: #e3f0ff;
+  border-radius: 6px;
+}
+.avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.avatar-img {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.user-info {
+  margin-left: 9px;
+}
+.user-info p {
+  margin: 0;
+  font-size: 16px;
+  color: #1c1c1c;
+}
+
+.avatar-buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 13px;
+}
+.avatar-buttons button {
+  width: 180px;
+  height: 30px;
+  padding: 0 10px;
+  margin-bottom: 7px;
+  border-radius: 6px;
+  font-size: 16px;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background: linear-gradient(180deg, #127fff 0%, #0067ff 100%);
+}
+.avatar-buttons button:last-child {
+  background: #ffffff;
+  color: #0d6efd;
+}
+.sale-block,
+.suplier-block {
+  height: 63px;
+  padding: 16px;
+  margin-top: 10px;
+  border-radius: 6px;
+}
+.sale-block {
+  background-color: #f38332;
+}
+.sale-block p,
+.suplier-block p {
+  font-size: 16px;
+  color: white;
+  margin: 0px;
+}
+.suplier-block {
+  background-color: #55bdc3;
+}

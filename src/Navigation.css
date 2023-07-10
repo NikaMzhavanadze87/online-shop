@@ -1,0 +1,58 @@
+.navigation-nav-container {
+  max-width: 1440px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+}
+.navigation-navigate {
+  display: flex;
+  width: 1180px;
+  padding: 16px 0;
+  height: 24px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+.nav-menu-container {
+  display: flex;
+  justify-content: center;
+}
+.navigation-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+.navigation-list li {
+  margin-left: 28px;
+  list-style: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.help-dropdown {
+  width: 124px;
+  padding: 5px 0px 5px 10px;
+  background-color: none;
+  outline: none;
+  border: none;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-repeat: no-repeat;
+  background-position: right 5px center;
+  background-size: 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.sep-selected select {
+  margin-left: 32px;
+}

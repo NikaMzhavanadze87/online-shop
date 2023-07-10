@@ -1,0 +1,40 @@
+.region-grid {
+  max-width: 1180px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(221px, 1fr));
+  gap: 18px;
+  justify-content: center;
+  align-items: center;
+}
+.fleg-card {
+  display: flex;
+  height: 36px;
+  padding: 0px 8px;
+  align-items: center;
+  gap: 18px;
+}
+.fleg-card-img {
+  width: 28px;
+  height: 20px;
+}
+.fleg-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.fleg-descr.fleg-par.fleg-par-2 {
+  margin: 52px;
+  padding: 0px;
+}
+
+.fleg-par {
+  font-size: 13px;
+  color: #8b96a5;
+  margin: 0;
+}
+.fleg-par-2 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #1c1c1c;
+  margin: 0px;
+}

@@ -1,0 +1,19 @@
+.recommended-grid {
+  max-width: 1180px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.rec-descr p,
+span {
+  font-size: 16px;
+}
+.rec-descr span {
+  font-weight: 500;
+  color: #1c1c1c;
+}
+.rec-descr p {
+  color: #8b96a5;
+}

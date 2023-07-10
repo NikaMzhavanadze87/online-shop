@@ -1,0 +1,131 @@
+.request-container {
+  width: 1120px;
+  height: 350px;
+  padding: 30px;
+  border-radius: 6px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+}
+.request-container::after {
+  content: "";
+  position: absolute;
+  background: linear-gradient(128deg, #2c7cf1 0%, rgba(0, 209, 255, 0.5) 100%);
+  inset: 0;
+  z-index: -10;
+  opacity: 0.81;
+  border-radius: 6px;
+}
+
+.request-advertise {
+  width: 400px;
+  align-self: start;
+}
+.request-advertise h2,
+.request-advertise p {
+  color: #fff;
+}
+.request-advertise h2 {
+  font-size: 32px;
+  font-weight: 600;
+  margin-top: 0px;
+}
+
+.form-container {
+  width: 480px;
+  height: 324px;
+  background-color: #fff;
+  border-radius: 6px;
+  padding: 22px;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center; */
+}
+
+.form {
+  height: 100%;
+  width: 100%;
+  display: block;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.form h2 {
+  padding: 0px;
+}
+.form h4 {
+  padding: 0px;
+  font-size: 16px;
+  margin-top: 0px;
+}
+.request-product {
+  width: 420px;
+  height: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.message {
+  max-width: 420px;
+
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 20px;
+}
+.form select {
+  width: 91px;
+  height: 20px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  align-self: flex-end;
+}
+.input-select-container {
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+}
+.product-quantity {
+  height: 20px;
+  width: 186px;
+  padding: 10px;
+  margin-right: 9px;
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form textarea {
+  height: 120px;
+}
+
+.form select {
+  height: 40px;
+  margin-top: 20px;
+}
+
+.btn-inquiry {
+  margin-top: 20px;
+  padding: 0 16px;
+  background-color: #007bff;
+  width: 118px;
+  height: 40px;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+.btn-inquiry:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,224 @@
+{
+  "DummyData": [
+    {
+      "category": "Computers and Tech",
+      "subcategories": [
+        {
+          "name": "Smart Watches",
+          "catimg": "photos/apple-watch.png",
+          "products": [
+            {
+              "img": "photos/apple-watch@2x.png",
+              "title": "Apple Watch Series 6",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            }
+          ]
+        },
+        {
+          "name": "Cameras",
+          "catimg": "photos/cannon.png",
+          "products": [
+            {
+              "img": "photos/cannon@2x.png",
+              "title": "Cannon Camera",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            }
+          ]
+        },
+        {
+          "name": "Headphones",
+          "catimg": "photos/headphone-white.png",
+          "products": [
+            {
+              "img": "photos/headphone-white@2x.png",
+              "title": "Headphones",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            }
+          ]
+        },
+        {
+          "name": "Electric kattle",
+          "catimg": "photos/kattle.png",
+          "products": [
+            {
+              "img": "photos/kattle@2x.png",
+              "title": "Electric Kattle",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            }
+          ]
+        },
+        {
+          "name": "Gaming set",
+          "catimg": "photos/headphone.png",
+          "products": [
+            {
+              "img": "photos/headphone@2x.png",
+              "title": "Gaming Set",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            }
+          ]
+        },
+        {
+          "name": "Laptops & PC",
+          "catimg": "photos/macbook.png",
+          "products": [
+            {
+              "img": "photos/macbook@2x.jpg",
+              "title": "Laptops & PC",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            }
+          ]
+        },
+        {
+          "name": "Tablets",
+          "catimg": "photos/ipad.png",
+          "products": [
+            {
+              "img": "photos/ipad@2x.png",
+              "title": "Tablets",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            }
+          ]
+        },
+        {
+          "name": "Smartphones",
+          "catimg": "photos/iphone.png",
+          "products": [
+            {
+              "img": "photos/iphone@2x.png",
+              "title": "iPhone",
+              "description": "The latest iPhone model",
+              "price": "$999"
+            },
+            {
+              "img": "photos/samsung@2.png",
+              "title": "Samsung",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$899"
+            },
+            {
+              "img": "photos/poco-red@2x.png",
+              "title": "Poco",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$899"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Home interiors",
+      "subcategories": [
+        {
+          "name": "Soft chairs",
+          "catimg": "photos/rasm.png",
+          "products": [
+            {
+              "img": "photos/rasm@2x.png",
+              "title": "Chair",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$999"
+            }
+          ]
+        },
+        {
+          "name": "Sofa & chair",
+          "catimg": "photos/lamp.png",
+          "products": [
+            {
+              "img": "photos/lamp@2x.png",
+              "title": "Lamp",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            },
+            {
+              "img": "photos/rasm@2x.png",
+              "title": "Chair",
+              "description": "Stylish and functional chair",
+              "price": "$349"
+            }
+          ]
+        },
+        {
+          "name": "Kitchen dishes",
+          "catimg": "photos/mattras.png",
+          "products": [
+            {
+              "img": "photos/washing@2x.png",
+              "title": "Washing Machine",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            }
+          ]
+        },
+        {
+          "name": "Pottery",
+          "catimg": "photos/pot.png",
+          "products": [
+            {
+              "img": "photos/pot@2x.png",
+              "title": "Pot",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            }
+          ]
+        },
+        {
+          "name": "Plants",
+          "catimg": "photos/plant.png",
+          "products": [
+            {
+              "img": "photos/plant@2x.png",
+              "title": "Plant",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            }
+          ]
+        },
+        {
+          "name": "Home appliance",
+          "catimg": "photos/files.png",
+          "products": [
+            {
+              "img": "photos/files@2x.png",
+              "title": "File",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            }
+          ]
+        },
+        {
+          "name": "Kitchen mixer",
+          "catimg": "photos/meat-grinder.png",
+          "products": [
+            {
+              "img": "photos/meat-grinder@2x.png",
+              "title": "Bosch Mixer",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            }
+          ]
+        },
+        {
+          "name": "Blenders",
+          "catimg": "photos/coffe-maker.png",
+          "products": [
+            {
+              "img": "photos/coffe-maker@2x.png",
+              "title": "Ninja Blender",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "price": "$399"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

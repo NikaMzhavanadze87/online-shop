@@ -1,0 +1,34 @@
+.block-container {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  max-width: 1180px;
+  height: 257px;
+  border-radius: 6px;
+  border: 1px solid #e0e0e0;
+  overflow: hidden;
+  margin-top: 20px;
+}
+
+.block-banner {
+  width: 100%;
+}
+
+.banner-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.block-cards {
+  display: grid;
+
+  grid-template-columns: repeat(4, 224px);
+  grid-template-rows: repeat(2, 128px);
+  gap: 1px;
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #e0e0e0;
+  padding-bottom: 1px;
+}

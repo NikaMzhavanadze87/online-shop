@@ -1,0 +1,45 @@
+.di {
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+}
+.di h1 {
+  padding-left: 16px;
+  margin-bottom: 9px;
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 400;
+}
+.di span {
+  padding-left: 16px;
+  font-size: 13px;
+  color: #8b96a5;
+}
+.special-card {
+  border-bottom-right-radius: 6px;
+}
+.regular-card {
+  border-radius: 0px; /* Apply regular border radius to other cards */
+}
+.pottery-card {
+  border-top-right-radius: 6px;
+}
+.img-container {
+  width: 82px;
+  height: 82px;
+  position: absolute;
+  padding: 6px;
+  bottom: 0;
+  right: 0;
+}
+
+.img-container img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
